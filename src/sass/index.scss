@@ -1,0 +1,5 @@
+@import url(normalize.css);
+$baseSize: 3.75vw;
+.box {
+    padding: 0 (12 / $baseSize) 0 (18 / $baseSize);
+}
